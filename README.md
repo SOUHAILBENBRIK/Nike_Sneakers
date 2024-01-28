@@ -27,19 +27,19 @@ Make sure you have Node.js and npm installed on your machine.
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/SOUHAILBENBRIK/fitness-app.git
+   git clone https://github.com/SOUHAILBENBRIK/Nike_Sneakers.git
 2. Navigate to the project directory:
-   cd fitness-app
+   cd Nike_Sneakers
 3.Install the project dependencies:
    npm install
 ### Usage
 
 1. Start the development server:
    npm start
-2. Open your web browser and go to http://localhost:3000 to view the app.
-3.Explore the app and enjoy the fitness app experience!
+2. Open your web browser  to view the app.
+3.Explore the app and enjoy the Nike_Sneakers app experience!
 
 ### ScreenShot
-![1.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/Capture.PNG)
-![2.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/Capture1.PNG)
-![3.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/Capture2.PNG)
+![1.screenshot](https://github.com/SOUHAILBENBRIK/Nike_Sneakers/blob/master/public/Capture.PNG)
+![2.screenshot](https://github.com/SOUHAILBENBRIK/Nike_Sneakers/blob/master/public/Capture1.PNG)
+![3.screenshot](https://github.com/SOUHAILBENBRIK/Nike_Sneakers/blob/master/public/Capture2.PNG)
