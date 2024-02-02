@@ -1,6 +1,6 @@
 # Nike Sneakers Webiste with React
 
-This website, developed using React, offers a user-friendly platform for exploring Nike sneakers. Whether you're interested in the latest releases, classic models, or specific styles, this site has you covered.
+This website, developed using React and Tailwind CSS, marks my inaugural project with Tailwind. It provides a user-friendly platform for exploring Nike sneakers. Whether you're on the lookout for the latest releases, classic models, or specific styles, this site has you covered. The seamless integration of React and Tailwind ensures a responsive and visually appealing experience for all sneaker enthusiasts.
 
 
 ## Table of Contents
